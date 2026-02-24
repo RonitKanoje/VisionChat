@@ -1,0 +1,7 @@
+temp2.ipynb
+temp.py
+kaggle.json
+.env
+model/best_model.pth
+.venv
+*.pth
